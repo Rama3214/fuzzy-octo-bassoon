@@ -30,13 +30,13 @@ Peretas maks
 
 <li><code>$ python2 fuzzy-octo-bassoon.py</code></li>
 
-<ul>
+<ul>code>
 
-<li><code> Silahkan download lewat Uc Mini/Uc Browser! </code></li>
+<li><code>silakan tanya sama pemilik akun ini</code></li>
 
-<li><code> Username & Pasword  : https://hack </code></li>
+<li><code></code></li>
 
-<li><code> Nih biar ga kena Cp : https://max</code></li>
+<li><code></li>
 
 </ul>
 
