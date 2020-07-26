@@ -18,13 +18,13 @@ Peretas maks
 
 <li><code>$ git clone https:///git clone https://github.com/Rama3214/fuzzy-octo-bassoon
 
-</code></li>
+
 
 <li><code>$ cd fuzzy-octo-bassoon</code></li>
 
 <li><code>$ cd fuzzy-octo-bassoon
 
-</code></li>
+
 
 <li><code>$ ls</code></li>
 
@@ -38,6 +38,6 @@ Peretas maks
 
 <li><code></li>
 
-</ul>
+</ul> hacker max
 
-<br/>
+<br/> 085333139107
